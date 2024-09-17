@@ -1,0 +1,36 @@
+#conteiner-principal{
+    background-color: #e2cd876c;
+    padding: 20px;
+    height: 350px;
+    border: 2px solid #9aa1e0;
+    border-radius: 10px;
+}
+
+.caixa-simples{
+    background-color: greenyellow;
+    color: white;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.caixa-simples:hover{
+    background-color: darkgreen;
+}
+
+#caixa-diferente{
+    background-color: slategrey;
+    margin: 10px;
+    color: white;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    border-radius: 10px;
+}
+#caixa-diferente:hover{
+    background-color: #9aa1e0;
+}
